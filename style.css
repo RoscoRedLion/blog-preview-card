@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
 }
 img {
     align-items: center;
@@ -53,4 +54,5 @@ img {
 }
 .avatar {
     width: 40px;
+
 }
